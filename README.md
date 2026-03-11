@@ -78,11 +78,11 @@ I'm a **Senior QA Automation Engineer / SDET** with deep expertise in designing 
 
 <div align="center">
 
-![Vinoth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinoth-AutomationQA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Vinoth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinoth-SDET&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinoth-AutomationQA&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinoth-SDET&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vinoth-AutomationQA&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vinoth-SDET&theme=tokyonight&hide_border=true)
 
 </div>
 
