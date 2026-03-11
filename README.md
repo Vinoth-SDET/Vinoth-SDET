@@ -25,7 +25,6 @@ I'm a **Senior QA Automation Engineer / SDET** with deep expertise in designing 
 - 🔁 Integrating quality gates into **GitHub Actions, Jenkins, and Docker-based pipelines**
 - 📐 Passionate about **clean framework design**, Page Object Model, and test architecture
 - 🌱 Actively exploring **AI-assisted testing** and modern SDET tooling
-- 🇨🇦 Based in **Canada**
 
 ---
 
