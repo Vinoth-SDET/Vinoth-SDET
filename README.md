@@ -79,7 +79,7 @@ I'm a **Senior QA Automation Engineer / SDET** with deep expertise in designing 
 
 | # | Project | Description | Tech Stack | Status |
 |---|---------|-------------|------------|--------|
-| 🔷 | **[Selenium Automation Framework](https://github.com/Vinoth-SDET)** | Production-grade UI automation framework with POM, parallel execution, ThreadLocal WebDriver, and Extent Reports | Java · Selenium · TestNG · Maven · GitHub Actions | ✅ Live |
+| 🔷 | **[Selenium Automation Framework](https://github.com/Vinoth-SDET)** | Production-grade UI automation framework with POM, parallel execution, ThreadLocal WebDriver, and Extent Reports | Java · Selenium · TestNG · Maven · GitHub Actions | 🚧 In Progress |
 | 🔷 | **[REST API Automation Framework with CI](https://github.com/Vinoth-SDET/api-automation-restassured-ci)** | Full API test suite using RestAssured 5.4 + Allure Reports — 100% pass rate on 11 tests with full CI pipeline | Java 21 · RestAssured · TestNG · Allure · GitHub Actions | ✅ Live |
 | 🔷 | **[Playwright Automation Framework](https://github.com/Vinoth-SDET)** | Modern cross-browser automation framework with Playwright for UI and headless testing | Java · Playwright · TestNG · Maven | 🚧 In Progress |
 | 🔷 | **[Automation CI/CD Pipeline](https://github.com/Vinoth-SDET)** | End-to-end quality pipeline integrating test automation with Docker, GitHub Actions, and reporting dashboards | Docker · GitHub Actions · Jenkins · Shell | 🚧 In Progress |
